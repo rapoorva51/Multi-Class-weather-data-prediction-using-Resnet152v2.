@@ -1,0 +1,1 @@
+# Multi-Class-weather-data-prediction-using-Resnet152v2.
